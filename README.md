@@ -1,4 +1,4 @@
-# Clock Of Clocks
+# Clock of Clocks
 
 ### https://clock-of-clocks.shephardluke.co.uk
 
